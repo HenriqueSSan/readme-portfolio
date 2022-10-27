@@ -8,10 +8,12 @@
 
 
 <table>
-  <tr width="50%">
-    <img src="./images/gym-website.png">
-  </tr>
-  <tr width="50%"> 
-    <img src="./images/gym-website.png">
+  <tr>
+    <td width="50%">
+      <img src="./images/gym-website.png">
+    </td>
+    <td width="50%">
+      <img src="./images/gym-website.png">
+    </td>
   </tr>
 </table>
